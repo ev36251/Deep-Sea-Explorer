@@ -6,8 +6,6 @@ A 2D submarine adventure game. Dive into the ocean, collect treasure, fight gian
 
 **[Click here to play](https://ev36251.github.io/Deep-Sea-Explorer/)**
 
-> To activate the link above: go to your repo on GitHub → **Settings** → **Pages** → under *Source* select `main` branch → **Save**.
-
 ---
 
 ## How to Play
